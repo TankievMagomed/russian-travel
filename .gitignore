@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Редакторы
+.vscode/
+.idea/
+
+# Зависимости и сборка
+node_modules/
+dist/
+build/
+
+# Переменные окружения
+.env
+.env.*
+
+# Временные файлы
+_to_delete/
